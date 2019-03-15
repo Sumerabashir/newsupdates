@@ -2,8 +2,7 @@
 <widget id="com.smartvisionapps.newsupdates" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Jang News Updates</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
-    </description>
+Jang news updates of : sports health jobs entertainment indian pakistan media news updates    </description>
     <author email="support@smartvisionapps4.com" href="http://smartvisionapps4.com">
         Smart Vision Apps Developer's Team
     </author>
